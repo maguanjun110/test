@@ -10,7 +10,7 @@ import org.apache.spark.streaming.dstream.InputDStream
 import org.apache.spark.streaming.kafka.{HasOffsetRanges, KafkaUtils, OffsetRange}
 import org.apache.spark.streaming.{Duration, StreamingContext}
 
-/**
+/** git test
   * 直连方式
   * 将offset保存在zk中
   */
